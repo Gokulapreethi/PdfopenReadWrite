@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\sample_Android\PdfReadWrite-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="E:\sample_Android\PdfReadWrite-master1\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_6ffee40b22fd6ce97d92112d1fc733a3e04c282b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Preethi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="E:\sample_Android\PdfReadWrite-master1\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_b6f6acb9391000fbd998cb7a690aa77061c3aa5e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sample_Android\PdfReadWrite-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="E:\sample_Android\PdfReadWrite-master1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_83bc323a5caff98cc747a7b37a747be439de22e9.jar" />
+    </item>
+
+</items>
